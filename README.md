@@ -1,4 +1,4 @@
-#Clustering des accidents corporels de la circulation routière (France, 2023)
+# Clustering des accidents corporels de la circulation routière (France, 2023)
 
 ## Description du projet
 Ce projet s’inscrit dans le cadre du module **Data Mining** du Master 2 Informatique – Parcours Data Science de l'Université Claude Bernard Lyon 1. 
